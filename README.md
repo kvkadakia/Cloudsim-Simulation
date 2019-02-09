@@ -16,7 +16,7 @@ Simulations present inside each of the programs are explained in the documentati
 
 ## Results of simulation
  
-#Simulation 1 results:
+###Simulation 1 results:
 Starting CloudSimExample1...
 Initialising...
 Starting CloudSim version 3.0
@@ -54,7 +54,7 @@ Profit earned by broker = 80.0
 CloudSimExample1 finished!
  
  
-#Simulation 2 results:
+###Simulation 2 results:
 Starting CloudSimExample2...
 Initialising...
 Starting CloudSim version 3.0
