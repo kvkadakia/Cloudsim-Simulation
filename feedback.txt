@@ -1,1 +1,10 @@
-feedback goes here
+Hi Karan,
+thank you for your submission. You may consider learning scalatest and
+using behavioral testing, but it is ok for now. Your code is well-commented
+and you provided some info in README, but no tests. You used mutable
+variables even though you didn't have to - please think about how you can
+modify your code to avoid doing it. Your policy implementation is rather primitive one
+and you didn't analyze the results of your simulations in depth. Yet, the quality of
+the basic implementation is sufficient - you have partial grade, 2.5%.
+
+
